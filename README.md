@@ -1,3 +1,3 @@
 UWC Project
 
-App for managing Tasks
+App for managing Tasks(ToDo list)
